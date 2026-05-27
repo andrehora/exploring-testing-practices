@@ -29,7 +29,7 @@ Based on the collected data, select a relevant testing practice or metric and ex
 
 ## Submission instructions
 
-1. Fork this repository (learn more about forks [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)).
+1. Create a fork of this repository (learn more about forks [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)).
 2. Answer the questions below directly in this `README.md` file in your fork. You may add images to enrich your explanation.
 3. In Moodle, submit only the URL of your fork.
 
